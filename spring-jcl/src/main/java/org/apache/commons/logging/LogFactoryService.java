@@ -46,7 +46,6 @@ public class LogFactoryService extends LogFactory {
 		return LogAdapter.createLog(name);
 	}
 
-
 	// Just in case some code happens to call uncommon Commons Logging methods...
 
 	public void setAttribute(String name, Object value) {
