@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/chenxingxing6/spring-framework/master/assert/1.jpg)
 
 ---
-各个模块依赖关系：
+各个模块依赖关系：    
 ![](https://raw.githubusercontent.com/chenxingxing6/spring-framework/master/assert/2.jpg)
 
 ---
